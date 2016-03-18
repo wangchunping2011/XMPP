@@ -1,4 +1,4 @@
-# XMPP-
+# XMPP
 客户端登录、注册、添加好友、获取好友列表，客户端与客户端间通讯。
 
 Openfire与Spark下载：http://igniterealtime.org/downloads/index.jsp
